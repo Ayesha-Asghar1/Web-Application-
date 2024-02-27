@@ -1,1 +1,3 @@
-https://github.com/Ayesha-Asghar1/Web-Application-.git
+node_modules/
+dist/
+.env
